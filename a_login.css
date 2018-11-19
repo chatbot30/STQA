@@ -1,0 +1,94 @@
+#admin_login_header{
+	position:absolute;
+	top:75px;
+	left:500px;
+	color: black;
+	font-size: 65px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;}
+#u{
+
+	position:absolute;
+	top:240px;
+	left:435px;
+	height: 70px;
+	width: 30%;
+	padding:  10px;
+	font-size: 25px;
+	color:black;
+
+}
+#username{
+	position:absolute;
+	top:320px;
+	left:435px;
+	height: 30px;
+	width: 30%;
+	padding:  5px;
+	font-size: 15px;
+	color:black;
+	background: white;
+	border-radius: 5px;
+	border: none;
+}
+
+#p{	
+	position:absolute;
+	top:335px;
+	left:435px;
+	height: 70px;
+	width: 30%;
+	padding:  10px;
+	font-size: 25px;
+	color:black;	
+
+}
+#password{
+	position:absolute;
+	top:415px;
+	left:435px;
+	height: 30px;
+	width: 30%;
+	padding: 5px;
+	font-size: 15px;
+	color:black;
+	background: white;
+	border-radius: 5px;
+	border: none;}
+
+
+#login{
+	position :absolute;
+	top:495px;
+	left:500px;
+	width: 200px;
+    	height: 50px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px; 
+
+}
+
+#error{
+	position:absolute;
+	top:575px;
+	left:435px;
+	height: 70px;
+	width: 50%;
+	padding:  10px;
+	font-size: 25px;
+	color:red;
+}
+#back{
+	position:absolute;
+	top:150px;
+	left:985px;
+	color: black;
+	font-size: 20px;    	
+
+}
+
+
+
