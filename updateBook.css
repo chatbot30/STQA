@@ -1,0 +1,171 @@
+#update_book_header{
+	position:absolute;
+	top:75px;
+	left:500px;
+	color: black;
+	font-size: 65px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;}
+#back1{
+	position:absolute;
+	top:185px;
+	left:985px;
+	color: black;
+	font-size: 20px;    	
+
+}
+#n{
+
+	position:absolute;
+	top:240px;
+	left:350px;
+	height: 70px;
+	width: 30%;
+	padding:  10px;
+	font-size: 25px;
+	color:black;
+
+}
+#name{
+	position:absolute;
+	top:320px;
+	left:350px;
+	height: 30px;
+	width: 30%;
+	padding:  5px;
+	font-size: 15px;
+	color:black;
+	background: white;
+	border-radius: 5px;
+	border: none;
+}
+
+#a{	
+	position:absolute;
+	top:335px;
+	left:350px;
+	height: 70px;
+	width: 30%;
+	padding:  10px;
+	font-size: 25px;
+	color:black;	
+
+}
+#author{
+	position:absolute;
+	top:415px;
+	left:350px;
+	height: 30px;
+	width: 30%;
+	padding: 5px;
+	font-size: 15px;
+	color:black;
+	background: white;
+	border-radius: 5px;
+	border: none;}
+
+#d{
+
+	position:absolute;
+	top:240px;
+	left:850px;
+	height: 70px;
+	width: 30%;
+	padding:  10px;
+	font-size: 25px;
+	color:black;
+
+}
+#year{
+	position:absolute;
+	top:320px;
+	left:850px;
+	height: 30px;
+	width: 30%;
+	padding:  5px;
+	font-size: 15px;
+	color:black;
+	background: white;
+	border-radius: 5px;
+	border: none;
+}
+
+#r{	
+	position:absolute;
+	top:335px;
+	left:850px;
+	height: 70px;
+	width: 30%;
+	padding:  10px;
+	font-size: 25px;
+	color:black;	
+
+}
+#rack{
+	position:absolute;
+	top:415px;
+	left:850px;
+	height: 30px;
+	width: 30%;
+	padding: 5px;
+	font-size: 15px;
+	color:black;
+	background: white;
+	border-radius: 5px;
+	border: none;}
+
+
+#update{
+	position :absolute;
+	top:550px;
+	left:437px;
+	width: 200px;
+    	height: 50px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px; 
+
+}
+
+#clear{
+	position :absolute;
+	top:550px;
+	left:737px;
+	width: 200px;
+    	height: 50px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px; 
+
+}
+#back{
+	position :absolute;
+	top:550px;
+	left:1037px;
+	width: 200px;
+    	height: 50px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px; 
+
+}
+
+#error{
+	position:absolute;
+	top:575px;
+	left:435px;
+	height: 70px;
+	width: 50%;
+	padding:  10px;
+	font-size: 25px;
+	color:red;
+}
+
+
+

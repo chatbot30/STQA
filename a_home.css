@@ -1,0 +1,119 @@
+* {
+	margin: 0px;	
+	padding: 0px;	
+}
+#admin_home_header{
+	position:absolute;
+	top:40px;
+	left:550px;
+	color: black;
+	font-size: 75px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;}
+#asAdmin{
+	position:absolute;
+	top:150px;
+	left:600px;
+	color: blue;
+	font-size: 20px;
+}
+#chpwd{
+	position:absolute;
+	top:200px;
+	left:800px;
+	color: black;
+	font-size: 20px; }
+#logout{
+	position:absolute;
+	top:200px;
+	left:1000px;
+	color: black;
+	font-size: 20px; }
+#custReq{
+	position:absolute;
+	top:270px;
+	left:535px;
+	width: 200px;
+    	height: 60px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px;    	}
+#viewCust{
+	position:absolute;
+	top:270px;
+	left:900px;
+	width: 200px;
+    	height: 60px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px;}
+#addBook{
+	position:absolute;
+	top:370px;
+	left:535px;
+	width: 200px;
+    	height: 60px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px;}
+#viewBook{
+	position:absolute;
+	top:370px;
+	left:900px;
+	width: 200px;
+    	height: 60px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px;}
+#iReq{
+	position:absolute;
+	top:470px;
+	left:535px;
+	width: 200px;
+    	height: 60px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px;}
+#cReq{
+	position:absolute;
+	top:470px;
+	left:900px;
+	width: 200px;
+    	height: 60px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px;}
+#rReq{
+	position:absolute;
+	top:570px;
+	left:535px;
+	width: 200px;
+    	height: 60px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px;}
+#fine{
+	position:absolute;
+	top:570px;
+	left:900px;
+	width: 200px;
+    	height: 60px;
+	background:cyan;
+	border-radius: 20px;
+	border: none;
+	color: black;
+	font-size: 20px;}

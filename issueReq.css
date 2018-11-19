@@ -1,0 +1,64 @@
+* {
+	margin: 0px;	
+	padding: 0px;	
+}
+
+#book_issue_req_header{
+	position:absolute;
+	top:50px;
+	left:400px;
+	color: black;
+	font-size: 50px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#back{
+	position:absolute;
+	top:80px;
+	left:935px;
+	color: black;
+	font-size: 20px;    	
+
+}
+
+.x{
+	display : block;
+	width : 100%;
+}
+.x thead, tbody{
+	display : block;
+}
+
+.x tbody{
+	height :330px;
+}
+
+
+#abc{
+	position: absolute;
+	top : 180px;
+	left : 300px;
+}
+#abc th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #4CAF50;
+	color: white;
+}
+#abc td, #abc th{
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+#abc tr{
+	background-color: #ddd;
+}
+#abc tr:hover{
+	background-color: #67c8ff;
+}
+.a{
+	background-color: white;
+	border: none;
+}
+
