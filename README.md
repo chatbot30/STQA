@@ -1,2 +1,2 @@
-# STQA
-Bookstore software
+# Bookstore software
+A STQA project
